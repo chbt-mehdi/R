@@ -13,8 +13,8 @@ The goal of this project is to build predictive models to predict the hourly ren
 
 ## Files
 
-- `bike_sharing_demand.R`: This R script contains the code for building and evaluating the models.
-- `bike_sharing_demand.ipynb`: This Jupyter notebook contains the same code as the R script but in a notebook format which allows for a more interactive experience.
+- `R jupyter-linear-models-baselinse.R`: This R script contains the code for building and evaluating the models.
+- `lab-jupyter-linear-models-baselinse.ipynb`: This Jupyter notebook contains the same code as the R script but in a notebook format which allows for a more interactive experience.
 
 ## Usage
 
