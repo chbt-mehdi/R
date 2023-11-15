@@ -8,7 +8,9 @@ The goal of this project is to create a Shiny App that allows users to explore t
 
 ## Files
 
-- `app.R`: This R script contains the server-side code for the Shiny App. It includes functions for reading the data, processing the data based on user input, and rendering the appropriate plots.
+- `adult.csv`: This CSV file contains the Adult dataset used for the analysis.
+- `server.R`: This R script contains the server-side code for the Shiny App. It includes functions for reading the data, processing the data based on user input, and rendering the appropriate plots.
+- `ui.R`: This R script contains the UI code for the Shiny App.
 
 ## Usage
 
